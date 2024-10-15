@@ -1,58 +1,58 @@
 [
   {
-    "name": "Bogotá",
+    "nameCity": "Bogotá",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BOGOTA_CITY.jpg/640px-BOGOTA_CITY.jpg"
   },
   {
-    "name": "Medellin",
+    "nameCity": "Medellin",
     "photo": "https://www.travelers.com.co/assets/cache/uploads/medellin/1300x868/medellin-travelers-apartamentos-suites-colombia.jpeg"
   },
   {
-    "name": "Cartagena",
+    "nameCity": "Cartagena",
     "photo": "https://www.viajes.cl/hubfs/Torre%20del%20Reloj%20en%20Cartagena%20de%20Indias,%20Colombia.jpg"
   },
   {
-    "name": "Cali",
+    "nameCity": "Cali",
     "photo": "https://i.natgeofe.com/n/02b58204-72b5-4d29-9e8a-668d56c0a2e4/Caliinsideguide.jpg"
   },
   {
-    "name": "Barranquilla",
+    "nameCity": "Barranquilla",
     "photo": "https://ul.edu.co/uleduco/cache/mod_roksprocket/caba858bd232dc141cde641e6d15b438_350_500.jpg"
   },
   {
-    "name": "Bucaramanga",
+    "nameCity": "Bucaramanga",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sE1Rp3w5C5PCjKe6rFEHXkM-j8SmYokUWQ&s"
   },
   {
-    "name": "Santa Marta",
+    "nameCity": "Santa Marta",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6l8asBKNuD8mI39nGrlD6zeXwa4WbVIhVw&s"
   },
   {
-    "name": "Ibagué",
+    "nameCity": "Ibagué",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPOM0lpKSP0Mv8TiSNVuHeRJajKvIofb-Dg&s"
   },
   {
-    "name": "Perreira",
+    "nameCity": "Perreira",
     "photo": "https://i0.wp.com/ciudadregion.com/uploads/2022/09/pereira-ciudad-1.jpg?fit=1000%2C1106&ssl=1"
   },
   {
-    "name": "Cúcuta",
+    "nameCity": "Cúcuta",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_3AhPNEQjDw_wsOBHq0PfUPLCzYrdJn4Yw&s"
   },
   {
-    "name": "Manizales",
+    "nameCity": "Manizales",
     "photo": "https://ucarecdn.com/71cbc071-d89f-489c-85e4-1be9d2416753/-/preview/"
   },
   {
-    "name": "Pasto",
+    "nameCity": "Pasto",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Z2b8KMeA2Nmg_bgs3CZQRMFJqWfLvJVHKw&s"
   },
   {
-    "name": "Valledupar",
+    "nameCity": "Valledupar",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwIf6WXvm3cOXFCmuruDsh2IlX6nBU3T9eQ&s"
   },
   {
-    "name": "San Gil",
+    "nameCity": "San Gil",
     "photo": "https://cdn.baquianos.com/img/blog/2019/13/san-gil-i6yx640.jpg"
   }
 ]
