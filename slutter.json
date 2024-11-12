@@ -2,70 +2,71 @@
   {
     "nameCity": "Bogotá",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BOGOTA_CITY.jpg/640px-BOGOTA_CITY.jpg",
-    "description": ""
+    "description": "Bogotá es una ciudad extensa de gran altitud y la capital de Colombia. En la Candelaria (centro adoquinado de la ciudad) hay monumentos de la época colonial como el Teatro Colón, de estilo neoclásico, y la iglesia de San Francisco, que data del siglo XVII. Bogotá también alberga museos populares, como el Museo Botero"
   },
   {
     "nameCity": "Medellin",
     "photo": "https://www.travelers.com.co/assets/cache/uploads/medellin/1300x868/medellin-travelers-apartamentos-suites-colombia.jpeg",
-    "description": ""
+    "description": "Medellín es la capital de la provincia montañosa de Antioquia (Colombia). Apodada la ciudad de la eterna primavera por su clima templado, acoge anualmente la Feria de las Flores. Los modernos metrocables (teleféricos) conectan la ciudad con los barrios circundantes y ofrecen vistas del valle de Aburrá."
   },
   {
     "nameCity": "Cartagena",
     "photo": "https://www.viajes.cl/hubfs/Torre%20del%20Reloj%20en%20Cartagena%20de%20Indias,%20Colombia.jpg",
-    "description": ""
+    "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y edificios coloniales coloridos. Con un clima tropical, la ciudad también es un destino popular por sus playas."
   },
   {
     "nameCity": "Cali",
     "photo": "https://i.natgeofe.com/n/02b58204-72b5-4d29-9e8a-668d56c0a2e4/Caliinsideguide.jpg",
-    "description": ""
+    "description": "Cali es una ciudad de Colombia situada en el departamento de Valle del Cauca, al sudoeste de Bogotá. Es famosa por la salsa y el gran número de discotecas del barrio de Juanchito. La catedral de San Pedro, en el casco antiguo, es de estilo neoclásico y alberga obras pictóricas de la escuela quiteña. Cerca de la catedral se encuentra el complejo religioso de San Francisco, de los siglos XVIII y XIX."
   },
   {
     "nameCity": "Barranquilla",
     "photo": "https://ul.edu.co/uleduco/cache/mod_roksprocket/caba858bd232dc141cde641e6d15b438_350_500.jpg",
-    "description": ""
+    "description": "Barranquilla, capital del departamento Atlántico de Colombia, es una bulliciosa ciudad portuaria flanqueada por el río Magdalena. La ciudad es conocida por su gran Carnaval, que incluye artistas disfrazados de forma extravagante, carrozas elaboradas y música cumbia. En el elegante barrio El Prado, el Museo Romántico exhibe objetos de festivales pasados y exposiciones de colombianos famosos"
   },
   {
     "nameCity": "Bucaramanga",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sE1Rp3w5C5PCjKe6rFEHXkM-j8SmYokUWQ&s",
-    "description": ""
+    "description": "Bucaramanga es la capital del departamento de Santander, que se halla en la parte central del norte de Colombia. Enmarcada por la cordillera oriental de los Andes, es conocida por sus numerosos parques, como el parque del Agua, repleto de cascadas y fuentes, y el parque rodeado de palmeras García Rovira. En el centro de la ciudad se encuentra la imponente catedral de la Sagrada Familia y la emblemática."
   },
   {
     "nameCity": "Santa Marta",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6l8asBKNuD8mI39nGrlD6zeXwa4WbVIhVw&s",
-    "description": ""
+    "description": "Santa Marta es una ciudad del Caribe situada en el departamento de Magdalena (norte de Colombia). Es una agitada ciudad portuaria que en su día fue el primer asentamiento español en Colombia. Actualmente es la puerta de entrada de las excursiones al Parque Nacional Natural Tayrona y de las excursiones guiadas de varios días al yacimiento arqueológico de la Ciudad Perdida (Teyuna)."
   },
   {
     "nameCity": "Ibagué",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPOM0lpKSP0Mv8TiSNVuHeRJajKvIofb-Dg&s",
-    "description": ""
+    "description": "Ibagué es una ciudad del oeste de Colombia que destaca por su patrimonio musical. En la arbolada Plaza de Bolívar sobresale la catedral de Ibagué, que cuenta con un campanario coronado por una cúpula. No muy lejos está el Conservatorio del Tolima, donde se suelen realizar conciertos. Por su parte, el Museo de Arte del Tolima alberga una variada colección. Al noroeste, en el frondoso cañón del Combeima habitan osos andinos, cóndores y zorros."
   },
   {
     "nameCity": "Perreira",
     "photo": "https://i0.wp.com/ciudadregion.com/uploads/2022/09/pereira-ciudad-1.jpg?fit=1000%2C1106&ssl=1",
-    "description": ""
+    "description": "Pereira es una ciudad situada en una región montañosa y cafetalera del oeste de Colombia, famosa por los granos suaves de café Arábica. La plaza principal (plaza de Bolívar) cuenta con una estatua de Simón Bolívar, héroe de la independencia, desnudo sobre un caballo. La catedral de Nuestra Señora de la Pobreza del siglo XIX tiene un elaborado techo entramado. El viaducto de César Gaviria Trujillo es un puente atirantado que se encuentra sobre el río Otún."
   },
   {
     "nameCity": "Cúcuta",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_3AhPNEQjDw_wsOBHq0PfUPLCzYrdJn4Yw&s",
-    "description": ""
+    "description": "Cúcuta es una ciudad colombiana situada en la frontera con Venezuela, conocida por su historial militar. El monumento a la Batalla de Cúcuta marca el supuesto lugar en el que Simón Bolívar guio a sus tropas en 1813. En la ciudad también se encuentran el paseo fluvial El Malecón y la Torre del Reloj, donde se organizan exposiciones de arte. En el panorámico cerro Cristo Rey se erige una estatua de Jesucristo y, más al sur."
   },
   {
     "nameCity": "Manizales",
     "photo": "https://ucarecdn.com/71cbc071-d89f-489c-85e4-1be9d2416753/-/preview/",
-    "description": ""
+    "description": "Manizales es una ciudad de la región montañosa del oeste de Colombia, conocida por el cultivo de café, sus eventos culturales, sus calles inclinadas y las vistas del volcán cercano, el Nevado del Ruíz. La plaza de Bolívar está situada en el centro de la ciudad y cuenta con una estatua de un hombre cóndor, en honor al líder revolucionario Simón Bolívar. La catedral basílica de Nuestra Señora del Rosario es de estilo neogótico y ofrece vistas de los tejados de la ciudad."
   },
   {
     "nameCity": "Pasto",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Z2b8KMeA2Nmg_bgs3CZQRMFJqWfLvJVHKw&s",
-    "description": ""
+    "description": "Pasto es una ciudad del oeste de Colombia conocida por el Carnaval de Negros y Blancos. El Museo del Carnaval alberga grandes estatuas utilizadas en los pasacalles. Por su parte, el templo de San Juan Bautista, ubicado en un edificio colonial con influencia árabe, se erige junto a la céntrica plaza de Nariño. En el Museo del Oro del Banco de la República, se pueden contemplar artefactos precolombinos."
   },
   {
     "nameCity": "Valledupar",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwIf6WXvm3cOXFCmuruDsh2IlX6nBU3T9eQ&s",
-    "description": ""
+    "description": "Valledupar es una ciudad del norte de Colombia, conocida como la capital de la música vallenato. Edificios coloniales como la Iglesia de la Inmaculada Concepción bordean la Plaza Alfonso López. El Balneario Hurtado es una piscina de baño en el río Guatapurí. El Eco-Parque Los Besotes tiene vida silvestre y senderos. Al noroeste está la aldea indígena arhuaca de Nabusimake y las cumbres nevadas de las montañas de la Sierra Nevada de Santa Marta."
   },
   {
     "nameCity": "San Gil",
     "photo": "https://cdn.baquianos.com/img/blog/2019/13/san-gil-i6yx640.jpg"
+    "description": "San Gil es una pequeña ciudad andina situada en el norte de Colombia, junto al río Fonce. Es conocida por ser un centro de deportes de aventura. La catedral de Santa Cruz, del siglo XVIII, se encuentra frente al parque Principal. El parque Gallineral está cerca del río y cuenta con árboles grandes cubiertos de musgo colgante. Desde él se puede acceder a los rápidos de aguas bravas. El balneario Pozo Azul es una piscina natural al este de la ciudad con grandes losas de piedra y cascadas."
   }
 ]
