@@ -1,72 +1,848 @@
 [
   {
-    "nameCity": "Bogotá",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BOGOTA_CITY.jpg/640px-BOGOTA_CITY.jpg",
-    "description": "Bogotá es una ciudad extensa de gran altitud y la capital de Colombia. En la Candelaria (centro adoquinado de la ciudad) hay monumentos de la época colonial como el Teatro Colón, de estilo neoclásico, y la iglesia de San Francisco, que data del siglo XVII. Bogotá también alberga museos populares, como el Museo Botero"
-  },
-  {
-    "nameCity": "Medellin",
-    "photo": "https://www.travelers.com.co/assets/cache/uploads/medellin/1300x868/medellin-travelers-apartamentos-suites-colombia.jpeg",
-    "description": "Medellín es la capital de la provincia montañosa de Antioquia (Colombia). Apodada la ciudad de la eterna primavera por su clima templado, acoge anualmente la Feria de las Flores. Los modernos metrocables (teleféricos) conectan la ciudad con los barrios circundantes y ofrecen vistas del valle de Aburrá."
-  },
-  {
-    "nameCity": "Cartagena",
-    "photo": "https://www.viajes.cl/hubfs/Torre%20del%20Reloj%20en%20Cartagena%20de%20Indias,%20Colombia.jpg",
-    "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y edificios coloniales coloridos. Con un clima tropical, la ciudad también es un destino popular por sus playas."
-  },
-  {
-    "nameCity": "Cali",
-    "photo": "https://i.natgeofe.com/n/02b58204-72b5-4d29-9e8a-668d56c0a2e4/Caliinsideguide.jpg",
-    "description": "Cali es una ciudad de Colombia situada en el departamento de Valle del Cauca, al sudoeste de Bogotá. Es famosa por la salsa y el gran número de discotecas del barrio de Juanchito. La catedral de San Pedro, en el casco antiguo, es de estilo neoclásico y alberga obras pictóricas de la escuela quiteña. Cerca de la catedral se encuentra el complejo religioso de San Francisco, de los siglos XVIII y XIX."
-  },
-  {
-    "nameCity": "Barranquilla",
-    "photo": "https://ul.edu.co/uleduco/cache/mod_roksprocket/caba858bd232dc141cde641e6d15b438_350_500.jpg",
-    "description": "Barranquilla, capital del departamento Atlántico de Colombia, es una bulliciosa ciudad portuaria flanqueada por el río Magdalena. La ciudad es conocida por su gran Carnaval, que incluye artistas disfrazados de forma extravagante, carrozas elaboradas y música cumbia. En el elegante barrio El Prado, el Museo Romántico exhibe objetos de festivales pasados y exposiciones de colombianos famosos"
-  },
-  {
-    "nameCity": "Bucaramanga",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sE1Rp3w5C5PCjKe6rFEHXkM-j8SmYokUWQ&s",
-    "description": "Bucaramanga es la capital del departamento de Santander, que se halla en la parte central del norte de Colombia. Enmarcada por la cordillera oriental de los Andes, es conocida por sus numerosos parques, como el parque del Agua, repleto de cascadas y fuentes, y el parque rodeado de palmeras García Rovira. En el centro de la ciudad se encuentra la imponente catedral de la Sagrada Familia y la emblemática."
-  },
-  {
-    "nameCity": "Santa Marta",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6l8asBKNuD8mI39nGrlD6zeXwa4WbVIhVw&s",
-    "description": "Santa Marta es una ciudad del Caribe situada en el departamento de Magdalena (norte de Colombia). Es una agitada ciudad portuaria que en su día fue el primer asentamiento español en Colombia. Actualmente es la puerta de entrada de las excursiones al Parque Nacional Natural Tayrona y de las excursiones guiadas de varios días al yacimiento arqueológico de la Ciudad Perdida (Teyuna)."
-  },
-  {
-    "nameCity": "Ibagué",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPOM0lpKSP0Mv8TiSNVuHeRJajKvIofb-Dg&s",
-    "description": "Ibagué es una ciudad del oeste de Colombia que destaca por su patrimonio musical. En la arbolada Plaza de Bolívar sobresale la catedral de Ibagué, que cuenta con un campanario coronado por una cúpula. No muy lejos está el Conservatorio del Tolima, donde se suelen realizar conciertos. Por su parte, el Museo de Arte del Tolima alberga una variada colección. Al noroeste, en el frondoso cañón del Combeima habitan osos andinos, cóndores y zorros."
-  },
-  {
-    "nameCity": "Perreira",
-    "photo": "https://i0.wp.com/ciudadregion.com/uploads/2022/09/pereira-ciudad-1.jpg?fit=1000%2C1106&ssl=1",
-    "description": "Pereira es una ciudad situada en una región montañosa y cafetalera del oeste de Colombia, famosa por los granos suaves de café Arábica. La plaza principal (plaza de Bolívar) cuenta con una estatua de Simón Bolívar, héroe de la independencia, desnudo sobre un caballo. La catedral de Nuestra Señora de la Pobreza del siglo XIX tiene un elaborado techo entramado. El viaducto de César Gaviria Trujillo es un puente atirantado que se encuentra sobre el río Otún."
-  },
-  {
-    "nameCity": "Cúcuta",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_3AhPNEQjDw_wsOBHq0PfUPLCzYrdJn4Yw&s",
-    "description": "Cúcuta es una ciudad colombiana situada en la frontera con Venezuela, conocida por su historial militar. El monumento a la Batalla de Cúcuta marca el supuesto lugar en el que Simón Bolívar guio a sus tropas en 1813. En la ciudad también se encuentran el paseo fluvial El Malecón y la Torre del Reloj, donde se organizan exposiciones de arte. En el panorámico cerro Cristo Rey se erige una estatua de Jesucristo y, más al sur."
-  },
-  {
-    "nameCity": "Manizales",
-    "photo": "https://ucarecdn.com/71cbc071-d89f-489c-85e4-1be9d2416753/-/preview/",
-    "description": "Manizales es una ciudad de la región montañosa del oeste de Colombia, conocida por el cultivo de café, sus eventos culturales, sus calles inclinadas y las vistas del volcán cercano, el Nevado del Ruíz. La plaza de Bolívar está situada en el centro de la ciudad y cuenta con una estatua de un hombre cóndor, en honor al líder revolucionario Simón Bolívar. La catedral basílica de Nuestra Señora del Rosario es de estilo neogótico y ofrece vistas de los tejados de la ciudad."
-  },
-  {
-    "nameCity": "Pasto",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Z2b8KMeA2Nmg_bgs3CZQRMFJqWfLvJVHKw&s",
-    "description": "Pasto es una ciudad del oeste de Colombia conocida por el Carnaval de Negros y Blancos. El Museo del Carnaval alberga grandes estatuas utilizadas en los pasacalles. Por su parte, el templo de San Juan Bautista, ubicado en un edificio colonial con influencia árabe, se erige junto a la céntrica plaza de Nariño. En el Museo del Oro del Banco de la República, se pueden contemplar artefactos precolombinos."
-  },
-  {
-    "nameCity": "Valledupar",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwIf6WXvm3cOXFCmuruDsh2IlX6nBU3T9eQ&s",
-    "description": "Valledupar es una ciudad del norte de Colombia, conocida como la capital de la música vallenato. Edificios coloniales como la Iglesia de la Inmaculada Concepción bordean la Plaza Alfonso López. El Balneario Hurtado es una piscina de baño en el río Guatapurí. El Eco-Parque Los Besotes tiene vida silvestre y senderos. Al noroeste está la aldea indígena arhuaca de Nabusimake y las cumbres nevadas de las montañas de la Sierra Nevada de Santa Marta."
-  },
-  {
-    "nameCity": "San Gil",
-    "photo": "https://cdn.baquianos.com/img/blog/2019/13/san-gil-i6yx640.jpg",
-    "description": "San Gil es una pequeña ciudad andina situada en el norte de Colombia, junto al río Fonce. Es conocida por ser un centro de deportes de aventura. La catedral de Santa Cruz, del siglo XVIII, se encuentra frente al parque Principal. El parque Gallineral está cerca del río y cuenta con árboles grandes cubiertos de musgo colgante. Desde él se puede acceder a los rápidos de aguas bravas. El balneario Pozo Azul es una piscina natural al este de la ciudad con grandes losas de piedra y cascadas."
-  }
+      "id": "52769",
+      "name": "Капсалон",
+      "source": "Голландская",
+      "ingredients": "Картофель фри - 250 грамм, Мясо донер - 500 грамм, Чесночный соус - Для украшения, Острый соус - Для украшения, Салат - 1 кочан, Помидор - 1, Огурец - 1/3, Сыр Гауда - 100 грамм",
+      "sourceUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+      "tag": "Закуска"
+    },
+    {
+      "id": "52813",
+      "name": "Курица по-кентуккийски",
+      "source": "Американская",
+      "ingredients": "Курица - 1 целая, Масло - 2 кварты нейтрального для жарки, Яичный белок - 1, Мука - 1,5 стакана, Коричневый сахар - 1 столовая ложка, Соль - 1 столовая ложка, Паприка - 1 столовая ложка, Луковая соль - 2 чайные ложки, Порошок чили - 1 чайная ложка, Черный перец - 1 чайная ложка, Сельдерейная соль - 0,5 чайной ложки, Шалфей - 0,5 чайной ложки, Чеснок в порошке - 0,5 чайной ложки, Душистый перец - 0,5 чайной ложки, Орегано - 0,5 чайной ложки, Базилик - 0,5 чайной ложки, Майоран - 0,5 чайной ложки",
+      "sourceUrl": "http://www.tablespoon.com/recipes/copycat-kfc-original-style-chicken/97c93d14-9d8c-4bc7-96dc-1e0b37e4fcaa",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+      "tag": "Мясо,Острое"
+    },
+    {
+      "id": "52820",
+      "name": "Курица Кацу карри",
+      "source": "Японская",
+      "ingredients": "Куриная грудка - 4 штуки, Мука - 2 столовые ложки, Яйцо - 1, Панировочные сухари - 100 грамм, Растительное масло - 230 мл, Подсолнечное масло - 2 столовые ложки, Лук - 2 штуки, Чеснок - 5 зубчиков, Морковь - 2 штуки, Мука - 2 столовые ложки, Порошок карри - 4 чайные ложки, Куриный бульон - 600 мл, Мед - 2 чайные ложки, Соевый соус - 4 чайные ложки, Лавровый лист - 1, Гарам масала - 1 чайная ложка",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/29578/chicken-katsu-curry.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+      "tag": "Карри,Мясо"
+    },
+    {
+      "id": "52859",
+      "name": "Пай с лаймом",
+      "source": "Американская",
+      "ingredients": "Печенье - 300 грамм, Масло - 150 грамм, Сгущенное молоко - 400 грамм, Яичные желтки - 3, Лайм - 4 штуки, Сливки - 300 мл, Сахарная пудра - 1 столовая ложка, Лайм - для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/2155644/key-lime-pie",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+      "tag": "Торт,Пирог,Десерт,Фруктовый,Кислый"
+    },
+    {
+      "id": "52868",
+      "name": "Карри с фасолью",
+      "source": "Индийская",
+      "ingredients": "Растительное масло - 1 столовая ложка, Лук - 1 штука, Чеснок - 2 зубчика, Имбирь - 1 часть, Кориандр - 1 пакет, Тмин - 1 чайная ложка, Паприка - 1 чайная ложка, Гарам масала - 2 чайные ложки, Помидоры - 400 грамм, Фасоль - 400 грамм, Рис басмати - для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/kidney-bean-curry",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+      "tag": "Карри"
+    },
+    {
+      "id": "52887",
+      "name": "Кеджери",
+      "source": "Британская",
+      "ingredients": "Копченая пикша - 300 грамм, Лавровый лист - 2 штуки, Молоко - 300 мл, Яйца - 4 штуки, Петрушка - Горсть, Кориандр - Горсть, Растительное масло - 2 столовые ложки, Лук - 1 штука, Кориандр - 1 чайная ложка, Порошок карри - 2 чайные ложки, Рис - 300 грамм",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/10421/kedgeree",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52945",
+      "name": "Кунг Пао Цыпленок",
+      "source": "Китайская",
+      "ingredients": "Саке - 2 столовые ложки, Соевый соус - 2 столовые ложки, Кунжутное масло - 2 столовые ложки, Кукурузная мука - 2 столовые ложки, Вода - 2 столовые ложки, Курица - 500 грамм, Порошок чили - 1 столовая ложка, Рисовый уксус - 1 чайная ложка, Коричневый сахар - 1 столовая ложка, Зеленый лук - 4 штуки, Чеснок - 6 зубчиков, Водяной каштан - 220 грамм, Арахис - 100 грамм",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/1773/kung-pao-chicken.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52946",
+      "name": "Кунг По Креветки",
+      "source": "Китайская",
+      "ingredients": "Креветки - 400 грамм, Соевый соус - 2 столовые ложки, Томатная паста - 1 чайная ложка, Кукурузная мука - 1 чайная ложка, Сахар - 1 чайная ложка, Подсолнечное масло - 1 чайная ложка, Арахис - 85 грамм, Чили - 3 штуки, Коричневый сахар - 1 столовая ложка, Чеснок - 6 зубчиков, Водяной каштан - 450 грамм, Имбирь - по вкусу",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/1415664/kung-po-prawns",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "tag": "BBQ"
+    },
+    {
+      "id": "52971",
+      "name": "Кафтеджи",
+      "source": "Тунисская",
+      "ingredients": "Картофель - 5 штук, Оливковое масло - 2 столовые ложки, Зеленый перец - 1 штука, Лук - 5 штук, Рас эль ханут - 1 столовая ложка, Тыква - 500 грамм, Яйца - 24 штуки, Соль - Щепотка, Перец - Щепотка",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/12294/kafteji--tunisian-fried-vegetables-.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52974",
+      "name": "Келея Заара",
+      "source": "Тунисская",
+      "ingredients": "Оливковое масло - 4 столовые ложки, Баранина - 750 грамм, Шафран - 1,5 чайные ложки, Лук - 1 штука, Вода - 25 мл, Петрушка - 30 грамм, Масло - 1 столовая ложка, Лимон - 1 штука",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/43723/keleya-zaara-tunisian-lamb-with-saffron.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52978",
+      "name": "Кумпыр",
+      "source": "Турецкая",
+      "ingredients": "Картофель - 2 штуки, Масло - 2 столовые ложки, Сыр - 150 грамм, Лук - 1 штука, Красный перец - 1 штука, Хлопья красного чили - Щепотка",
+      "sourceUrl": "http://www.turkeysforlife.com/2013/10/firinda-kumpir-turkish-street-food.html",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+      "tag": "Гарнир"
+    },
+    {
+      "id": "53015",
+      "name": "Пончики Krispy Kreme",
+      "source": "Американская",
+      "ingredients": "Дрожжи - 1/4 унции, Вода - 1/4 стакана, Вода - 1,5 стакана, Сахар - 1/2 стакана, Соль - 1 чайная ложка, Яйца - 2 штуки, Жир - 1/3 стакана, Мука - 5 капель, Масло канолы - Щепотка, Молоко - 1/2 стакана, Сахар - 2 стакана, Ваниль - 1,5 стакана, Кипяток - 6 столовых ложек, Масло - 1/3 стакана",
+      "sourceUrl": "https://www.mythirtyspot.com/krispy-kreme-copycat-recipe-for/",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+      "tag": ""
+    },
+    {
+      "id": "53027",
+      "name": "Кошари",
+      "source": "Египетская",
+      "ingredients": "Коричневая чечевица - 1,5 стакана, Рис - 1,5 стакана, Кориандр - 0,5 чайной ложки, Макароны - 2 стакана, Нут - 1 банка, Лук - 1 штука, Соль - Щепотка, Растительное масло - 1/2 стакана",
+      "sourceUrl": "https://www.themediterraneandish.com/egyptian-koshari-recipe/",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52782",
+      "name": "Баранина с томатами и сладкими специями",
+      "source": "Марокканская",
+      "ingredients": "Оливковое масло - 2 ст. ложки, Имбирь - 4 см, Чеснок - 2 зубчика, Помидоры - 800 г, Лимонный сок - 2 ст. ложки, Сахар - 1 ч. ложка, Виноградные листья - 50 шт, Фенхель - 1 крупный, Бараний фарш - 400 г, Лук - 1 средний, Картофель - 1 маленький, Рис басмати - 2 ст. ложки, Петрушка - 2 ст. ложки, Кориандр - 2 ст. ложки, Лимонный сок - 1 ст. ложка, Чеснок - 2 зубчика, Гвоздика - 1/2 ч. ложки, Корица - 1/2 ч. ложки, Помидоры - 2 средних",
+      "sourceUrl": "http://www.ottolenghi.co.uk/recipes/meat/lamb-tomato-and-sweet-spices-shop",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52805",
+      "name": "Бирьяни с бараниной",
+      "source": "Индийская",
+      "ingredients": "Кешью - 12 шт, Мак - 1/2 ст. ложки, Семена тмина - 1/2 ст. ложки, Лук - 3 шт, Имбирно-чесночная паста - 2 ч. ложки, Чеснок - 4 зубчика, Мята - Листья, Кинза - Листья, Шафран - 1/2 ч. ложки, Топленое масло - 2 ст. ложки, Рис басмати - 2 стакана, Йогурт - 1/2 стакана, Семена тмина - 1 ст. ложка, Лавровый лист - 1/2, Корица - 1 тонкий кусочек, Гвоздика - 3 шт, Кардамон - 2 шт, Баранина - 1 фунт, Порошок чили - 1 ч. ложка, Порошок бирьяни - 1 ст. ложка",
+      "sourceUrl": "http://www.relishthebite.com/restaurant-style-lamb-biryani/",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "tag": "Карри,Мясо"
+    },
+    {
+      "id": "52808",
+      "name": "Баранина Роган Джош",
+      "source": "Индийская",
+      "ingredients": "Лук - 2 шт, Подсолнечное масло - 4 ст. ложки, Чеснок - 4 зубчика, Имбирь - 1 кусочек, Паста мадрас - 2 ст. ложки, Паприка - 2 ч. ложки, Корица - 1 палочка, Кардамон - 6 шт, Гвоздика - 4 шт, Лавровый лист - 2 шт, Томатная паста - 1 ст. ложка, Баранина - 1 кг, Греческий йогурт - 150 мл, Кориандр - Для украшения",
+      "sourceUrl": "http://www.bbcgoodfood.com/recipes/9643/onepan-rogan-josh",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "tag": "Карри,Острое,Алкогольное"
+    },
+    {
+      "id": "52821",
+      "name": "Лакса с королевскими креветками",
+      "source": "Малайзийская",
+      "ingredients": "Оливковое масло - 1 ст. ложка, Красный перец чили - 1 шт, Тайская паста карри - 2,5 ст. ложки, Овощной бульонный кубик - 1 шт, Кокосовое молоко - 400 мл, Рыбный соус - 2 ч. ложки, Рисовая лапша - 100 г, Лайм - 2 шт, Королевские креветки - 150 г, Кориандр - 1/2 пучка",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/prawn-laksa-curry-bowl",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+      "tag": "Морепродукты,Рыба"
+    },
+    {
+      "id": "52843",
+      "name": "Тажин из баранины",
+      "source": "Марокканская",
+      "ingredients": "Оливковое масло - 2 ст. ложки, Лук - 1 шт, Морковь - 2 шт, Баранина - 500 г, Чеснок - 2 зубчика, Тмин - 1/2 ч. ложки, Имбирь - 1/2 ч. ложки, Шафран - 1/4 ч. ложки, Корица - 1 ч. ложка, Мед - 1 ст. ложка, Курага - 100 г, Овощной бульонный кубик - 1 шт, Тыква - 1 средняя, Кускус - Для подачи, Петрушка - Для украшения",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/2303638/family-meals-easy-lamb-tagine-",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52844",
+      "name": "Лазанья",
+      "source": "Итальянская",
+      "ingredients": "Оливковое масло - 1 ст. ложка, Бекон - 2 ломтика, Лук - 1 шт, Сельдерей - 1 стебель, Морковь - 1 шт, Чеснок - 2 зубчика, Фарш - 500 г, Томатная паста - 1 ст. ложка, Помидоры - 800 г, Мед - 1 ст. ложка, Листы лазаньи - 500 г, Сметана - 400 мл, Моцарелла - 125 г, Пармезан - 50 г, Листья базилика - Для украшения",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/classic-lasagne",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52877",
+      "name": "Пирог с бараниной и картофелем",
+      "source": "Британская",
+      "ingredients": "Баранина - 500 г, Мука - 1 ст. ложка, Растительное масло - Немного, Лук - 1 шт, Морковь - 2 шт, Овощной бульон - 350 мл, Картофель - 500 г, Слоеное тесто - 450 г, Яйца - Для смазки",
+      "sourceUrl": "https://www.bbc.co.uk/food/recipes/lambandpotatopie_83913",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
+      "tag": "Пирог"
+    },
+    {
+      "id": "52884",
+      "name": "Ланкаширский хотпот",
+      "source": "Британская",
+      "ingredients": "Масло - 100 г, Баранина - 900 г, Почки баранины - 3 шт, Лук - 2 шт, Морковь - 4 шт, Мука - 25 г, Вустерширский соус - 2 ч. ложки, Куриный бульон - 500 мл, Лавровый лист - 2 шт, Картофель - 900 г",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/9099/lancashire-hotpot",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52973",
+      "name": "Суп Леблеби",
+      "source": "Тунисская",
+      "ingredients": "Оливковое масло - 2 ст. ложки, Лук - 1 шт, Нут - 250 г, Овощной бульон - 1,5 л, Тмин - 1 ч. ложка, Чеснок - 5 зубчиков, Соль - 1/2 ч. ложки, Харисса - 1 ч. ложка, Перец - Щепотка, Лайм - 1/2 шт",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/43419/leblebi--tunisian-chickpea-soup-.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+      "tag": "Суп"
+    },
+    {
+      "id": "52987",
+      "name": "Сэндвичи с лазаньей",
+      "source": "Американская",
+      "ingredients": "Сметана - 1/4 стакана, Лук - 2 ст. ложки, Орегано - 1/2 ст. ложки, Соль - 1/4 ч. ложки, Хлеб - 8 ломтиков, Бекон - 8 ломтиков, Помидор - 8 ломтиков, Моцарелла - 4 ломтика, Масло - 2,5 ст. ложки",
+      "sourceUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+      "tag": "Сэндвич"
+    },
+    {
+      "id": "53009",
+      "name": "Сувлаки из баранины с лимоном",
+      "source": "Греческая",
+      "ingredients": "Чеснок - 2 зубчика, Морская соль - 2 ч. ложки, Оливковое масло - 4 ст. ложки, Лимон - 1 шт, Укроп - 1 ст. ложка, Баранина - 750 г, Пита - Для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/lamb-lemon-dill-souvlaki",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+      "tag": ""
+    },
+    {
+      "id": "53010",
+      "name": "Бургеры с бараниной и цацики",
+      "source": "Греческая",
+      "ingredients": "Булгур - 25 г, Бараний фарш - 500 г, Тмин - 1 ч. ложка, Кориандр - 1 ч. ложка, Паприка - 1 ч. ложка, Чеснок - 1 зубчик, Оливковое масло - Для жарки, Булочки - 4 шт, Огурец - Тертый, Греческий йогурт - 200 г, Мята - 2 ст. ложки",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/lamb-burgers-tzatziki",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+      "tag": ""
+    },
+    {
+      "id": "53083",
+      "name": "Плов из баранины",
+      "source": "Русская",
+      "ingredients": "Баранина - 50 г, Чернослив - 120 г, Лимонный сок - 1 ст. ложка, Масло - 2 ст. ложки, Лук - 1 шт, Баранина - 450 г, Чеснок - 2 зубчика, Овощной бульон - 600 мл, Рис - 2 стакана, Шафран - Щепотка, Петрушка - Для украшения",
+      "sourceUrl": "https://www.thespruceeats.com/russian-lamb-pilaf-plov-recipe-1137309",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/kos9av1699014767.jpg",
+      "tag": "Рис"
+    },
+    {
+      "id": "52810",
+      "name": "Особуко по-милански",
+      "source": "Итальянская",
+      "ingredients": "Телятина - 4 мясных голени, Мука - 1/2 стакана, Оливковое масло - 2 ст. ложки, Масло - 3 ст. ложки, Лук - 1 средний, Морковь - 1 шт, Сельдерей - 1 шт, Фенхель - 1 луковица, Чеснок - 3 зубчика, Цедра апельсина - 2 полоски, Майоран - 1,5 ч. ложки, Лавровый лист - 1 шт, Белое вино - 1 стакан, Куриный бульон - 1/2 стакана, Помидоры - 1 стакан, Петрушка - 2 ст. ложки, Чеснок - 1 ч. ложка, Цедра лимона - 1 ч. ложка",
+      "sourceUrl": "https://www.cookstr.com/Meat/Osso-Buco-alla-Milanese",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52943",
+      "name": "Хвост с бобами",
+      "source": "Ямайская",
+      "ingredients": "Хвост - 450 г, Лук - 1 шт, Зеленый лук - 1 шт, Чеснок - 2 зубчика, Имбирь - 1 ч. ложка, Перец чили - 1 шт, Соевый соус - 2 ст. ложки, Тимьян - 1 шт, Растительное масло - 2 ст. ложки, Вода - 350 мл, Бобы - 200 г, Кукурузная мука - 1 ст. ложка, Вода - 2 ст. ложки",
+      "sourceUrl": "http://allrecipes.co.uk/recipe/5392/jamaican-oxtail-with-broad-beans.aspx",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
+      "tag": "Тяжелое,Основное блюдо,Специальное"
+    },
+    {
+      "id": "52781",
+      "name": "Ирландское рагу",
+      "source": "Ирландская",
+      "ingredients": "Цельная пшеница - 300 г, Бараньи отбивные - 2 кг, Оливковое масло - 120 мл, Шалот - 24 шт, Морковь - 4 шт, Репа - 2 шт, Сельдерей - 1 шт, Картофель - 350 г, Белое вино - 150 мл, Сахар - 1 ч. ложка, Тимьян - 4 веточки, Орегано - 4 веточки, Куриный бульон - 450 мл",
+      "sourceUrl": "http://www.ottolenghi.co.uk/recipes/meat/irish-stew-shop",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+      "tag": "Рагу,Мясо"
+    },
+    {
+      "id": "52775",
+      "name": "Веганская лазанья",
+      "source": "Итальянская",
+      "ingredients": "Зеленая чечевица - 1 стакан, Морковь - 1 шт, Лук - 1 шт, Цукини - 1 шт, Кориандр - Щепотка, Шпинат - 150 г, Листы лазаньи - 10 шт, Веганское масло - 35 г, Мука - 4 ст. ложки, Соевое молоко - 300 мл, Горчица - 1,5 ч. ложки, Уксус - 1 ч. ложка",
+      "sourceUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+      "tag": "Веган,Паста"
+    },
+    {
+      "id": "52794",
+      "name": "Веганский шоколадный торт",
+      "source": "Американская",
+      "ingredients": "Мука - 1 1/4 стакана, Кокосовый сахар - 1/2 стакана, Какао - 1/3 стакана, Разрыхлитель - 1 ч. ложка, Льняные яйца - 2 шт, Миндальное молоко - 1/2 стакана, Ваниль - 1 ч. ложка, Вода - 1/2 стакана",
+      "sourceUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+      "tag": "Веган,Шоколад,Торт"
+    },
+    {
+      "id": "52828",
+      "name": "Вьетнамская жареная свинина",
+      "source": "Вьетнамская",
+      "ingredients": "Свинина - 1,5 фунта, Рисовая лапша - 1 упаковка, Яичные рулетики - 4-6 шт, Шалот - 3 ст. ложки, Чеснок - 1,5 ст. ложки, Сахар - 1/4 стакана, Рыбный соус - 1 ст. ложка, Соевый соус - 1/2 ст. ложки, Перец - 1/2 ст. ложки, Оливковое масло - 3 ст. ложки, Огурец - Нарезанный, Мята - Листья, Арахис - Измельченный",
+      "sourceUrl": "http://www.hungryhuy.com/bun-thit-nuong-recipe-vietnamese-grilled-bbq-pork-with-rice-vermicelli-vegetables/",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52838",
+      "name": "Венецианский рагу из утки",
+      "source": "Итальянская",
+      "ingredients": "Оливковое масло - 1 ст. ложка, Утиные ножки - 4 шт, Лук - 2 шт, Чеснок - 2 зубчика, Корица - 2 ч. ложки, Мука - 2 ч. ложки, Красное вино - 250 мл, Помидоры - 800 г, Куриный бульон - 1 шт, Розмарин - 3 веточки, Лавровый лист - 2 шт, Сахар - 1 ч. ложка, Молоко - 2 ст. ложки, Паста - 600 г, Пармезан - Для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/venetian-duck-ragu",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+      "tag": ""
+    },
+    {
+      "id": "52863",
+      "name": "Вегетарианская запеканка",
+      "source": "Британская",
+      "ingredients": "Рапсовое масло - 1 ст. ложка, Лук - 1 шт, Чеснок - 3 зубчика, Паприка - 1 ч. ложка, Тмин - 1/2 ч. ложки, Тимьян - 1 ст. ложка, Морковь - 3 шт, Сельдерей - 2 стебля, Красный перец - 1 шт, Желтый перец - 1 шт, Помидоры - 2 банки, Овощной бульон - 250 мл, Кабачки - 2 шт, Тимьян - 2 веточки, Чечевица - 250 г",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/1993645/vegetarian-casserole",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+      "tag": "Запеканка,Вегетарианское"
+    },
+    {
+      "id": "52867",
+      "name": "Вегетарианский чили",
+      "source": "Британская",
+      "ingredients": "Запеченные овощи - 400 г, Фасоль - 1 банка, Помидоры - 1 банка, Смесь зерен - 1 пакет",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/veggie-chilli",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
+      "tag": "Чили"
+    },
+    {
+      "id": "53000",
+      "name": "Овощной пастуший пирог",
+      "source": "Ирландская",
+      "ingredients": "Картофель - 3 фунта, Мелкий картофель - 3 фунта, Сливочное масло - 1/2 стакана, Грибы - 1 унция, Коричневая чечевица - 3/4 стакана, Чеснок - 6 зубчиков, Соль - 1 ч. ложка, Лук - 3 стакана, Томатная паста - 2 ст. ложки, Лавровый лист - 2 шт, Оливковое масло - 3 ст. ложки, Белое вино - 2 стакана, Овощной бульон - 8 стаканов, Кукурузный крахмал - 2 ст. ложки, Соевый соус - 2 ч. ложки, Розмарин - 2 веточки, Петрушка - Для украшения, Шалфей - Для украшения, Лук-резанец - Для украшения",
+      "sourceUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
+      "tag": "Алкогольное"
+    },
+    {
+      "id": "52871",
+      "name": "Яки Удон",
+      "source": "Японская",
+      "ingredients": "Удон - 250г, Кунжутное масло - 2 ст.л., Лук - 1 нарезанный, Капуста - 0.25, Шиитаке - 10, Зеленый лук - 4, Мирин - 4 ст.л., Соевый соус - 2 ст.л., Сахар - 1 ст.л., Вустерширский соус - 1 ст.л.",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/yaki-udon",
+      "tag": "Низкокалорийное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg"
+    },
+    {
+      "id": "52770",
+      "name": "Спагетти Болоньезе",
+      "source": "Итальянская",
+      "ingredients": "Лук - 2, Оливковое масло - 1 ст.л., Чеснок - 1 зубчик, Говяжий фарш - 500г, Грибы - 90г, Орегано - 1 ч.л., Помидоры - 400г, Говяжий бульон - 300мл, Томатная паста - 1 ст.л., Вустерширский соус - 1 ст.л., Спагетти - 350г, Пармезан - для подачи",
+      "sourceUrl": "",
+      "tag": "Паста, Мясо",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg"
+    },
+    {
+      "id": "52771",
+      "name": "Острая Пенне Аррабьята",
+      "source": "Итальянская",
+      "ingredients": "Пенне - 1 фунт, Оливковое масло - 1/4 стакана, Чеснок - 3 зубчика, Помидоры - 1 банка, Хлопья чили - 1/2 ч.л., Итальянские травы - 1/2 ч.л., Базилик - 6 листьев, Пармезан - для посыпки",
+      "sourceUrl": "",
+      "tag": "Паста, Карри",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+    },
+    {
+      "id": "52784",
+      "name": "Чили с чечевицей и тыквой",
+      "source": "Британская",
+      "ingredients": "Оливковое масло - 1 ст.л., Лук - 1, Лук-порей - 1 нарезанный, Чеснок - 3 зубчика, Тмин - 4 ч.л., Кориандр - 2 ч.л., Копченая паприка - 1 ч.л., Корица - 1/2 ч.л., Порошок чили - 1 ч.л., Какао - 1 ч.л., Орегано - 1/2 ч.л., Помидоры - 1 банка, Вода - 3 стакана, Морковь - 3 нарезанные, Коричневая чечевица - 1 1/2 стакана, Морская соль - 1 ч.л., Тыква - 1 маленькая, Кешью - 1 стакан, Яблочный уксус - 1 ч.л.",
+      "sourceUrl": "http://www.wholeheartedeats.com/2016/11/smoky-lentil-chili-squash/",
+      "tag": "Бобовые",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg"
+    },
+    {
+      "id": "52793",
+      "name": "Стики Тоффи Пудинг",
+      "source": "Британская",
+      "ingredients": "Финики - 225г, Вода - 175мл, Ванильный экстракт - 1 ч.л., Мука - 175г, Сода - 1 ч.л., Яйца - 2, Масло - 85г, Сахар - 140г, Черная патока - 2 ст.л., Молоко - 100мл, Мороженое - 1 шарик, Коричневый сахар - 175г, Масло - 50г, Сливки - 225мл, Черная патока - 1 ст.л.",
+      "sourceUrl": "https://www.youtube.com/watch?v=Wytv3bjqJII",
+      "tag": "Пудинг, Десерт, Торт, Молочное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg"
+    },
+    {
+      "id": "52797",
+      "name": "Острый Североафриканский картофельный салат",
+      "source": "Марокканская",
+      "ingredients": "Картофель - 650г, Харисса - 1 ч.л., Оливковое масло - 2 ч.л., Лимон - сок половины, Зеленый лук - 4, Руккола - 150г, Фета - 80г, Мята - 20 нарезанных, Кедровые орехи - 2 ст.л., Соль - щепотка, Перец - щепотка",
+      "sourceUrl": "",
+      "tag": "Вегетарианское, Острое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg"
+    },
+    {
+      "id": "52817",
+      "name": "Баклажаны с хариссой, нутом и йогуртом",
+      "source": "Американская",
+      "ingredients": "Оливковое масло - 4 ст.л., Баклажаны - 6 маленьких, Харисса - 1/2 ст.л., Нут - 1 банка, Помидоры черри - 2 стакана, Греческий йогурт - 1 1/2 стакана, Тмин - 1 ст.л., Петрушка - 1/2 стакана",
+      "sourceUrl": "http://www.seriouseats.com/2014/09/one-pot-wonders-stovetop-eggplant-harissa-chickpeas-cumin.html",
+      "tag": "Вегетарианское",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg"
+    },
+    {
+      "id": "52823",
+      "name": "Ризотто с лососем и креветками",
+      "source": "Итальянская",
+      "ingredients": "Масло - 50г, Лук - 1 нарезанный, Рис - 150г, Белое вино - 125мл, Овощной бульон - 1 литр, Лимон - сок и цедра, Королевские креветки - 240г, Лосось - 150г, Спаржа - 100г, Черный перец - молотый, Пармезан - 50г",
+      "sourceUrl": "http://www.rangemaster.co.uk/rangemaster-owners/recipes-ideas-inspiration/recipes/mains/prawn-and-hot-smoked-salmon-risotto-with-asparagus",
+      "tag": "Рыба",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    },
+    {
+      "id": "52833",
+      "name": "Чизкейк с соленой карамелью",
+      "source": "Американская",
+      "ingredients": "Печенье - 250г, Крендели - 75г, Масло - 135г, Сливочный сыр - 450г, Ванильный экстракт - 1 ч.л., Сахарная пудра - 100г, Карамель - 150г, Морская соль - 1 ч.л., Сливки - 300мл, Карамельный соус - для поливки, Попкорн - для украшения, Крендели - для украшения",
+      "sourceUrl": "http://www.janespatisserie.com/2015/11/09/no-bake-salted-caramel-cheesecake/",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg"
+    },
+    {
+      "id": "52836",
+      "name": "Фидэуа с морепродуктами",
+      "source": "Испанская",
+      "ingredients": "Мидии - 400г, Креветки - 8, Шафран - 2 щепотки, Вермишель - 350г, Оливковое масло - 5 ст.л., Лук - 1 большой, Чеснок - 3 зубчика, Паприка - 2 ст.л., Морской черт - 1 хвост, Кальмары - 4, Рыбный бульон - 650мл, Помидоры - 2 больших, Лимон - сок 1, Петрушка - для украшения",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/seafood-fideua-paella",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg"
+    },
+    {
+      "id": "52849",
+      "name": "Каннеллони со шпинатом и рикоттой",
+      "source": "Итальянская",
+      "ingredients": "Оливковое масло - 3 ст.л., Чеснок - 8 зубчиков, Сахар - 3 ст.л., Красный винный уксус - 2 ст.л., Помидоры - 3 банки, Базилик - пучок, Маскарпоне - 2 упаковки, Молоко - 3 ст.л., Пармезан - 85г, Моцарелла - 2 нарезанных, Шпинат - 1кг, Пармезан - 100г, Рикотта - 3 упаковки, Мускатный орех - щепотка, Фасоль - 400г",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/531632/spinach-and-ricotta-cannelloni",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg"
+    },
+    {
+      "id": "52866",
+      "name": "Лингвини с тыквой",
+      "source": "Итальянская",
+      "ingredients": "Тыква - 350г, Чеснок - 3 зубчика, Оливковое масло - 3 ст.л., Лингвини - 350г, Шалфей - небольшой пучок",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/creamy-squash-linguine",
+      "tag": "Паста, Легкое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg"
+    },
+    {
+      "id": "52872",
+      "name": "Испанская тортилья",
+      "source": "Испанская",
+      "ingredients": "Лук - 1 нарезанный, Оливковое масло - 4 ст.л., Масло - 25г, Картофель - 400г, Чеснок - 6 зубчиков, Яйца - 8, Петрушка - горсть, Багет - 1, Помидоры - 4, Оливковое масло - для поливки",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/spanish-tortilla",
+      "tag": "Яйца, Легкое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg"
+    },
+    {
+      "id": "52881",
+      "name": "Пирог со стейком и почками",
+      "source": "Британская",
+      "ingredients": "Слоеное тесто - 300г, Яичный белок - взбитый, Яичные желтки - взбитые, Растительное масло - 2 ст.л., Говядина - 70 мл, Почки - 200г, Лук - 2 нарезанных, Мука - 30г, Говяжий бульон - 85 мл, Соль - щепотка, Перец - щепотка, Вустерширский соус - капля",
+      "sourceUrl": "https://www.bbc.co.uk/food/recipes/steakandkidneypie_73308",
+      "tag": "Пирог",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg"
+    },
+    {
+      "id": "52883",
+      "name": "Стики Тоффи Пудинг",
+      "source": "Британская",
+      "ingredients": "Масло - 100г, Коричневый сахар - 175г, Яйца - 2 больших, Мука - 225г, Разрыхлитель - 1 ч.л., Сода - 1 ч.л., Черная патока - 3 ст.л., Молоко - 275мл, Сливки - для подачи, Масло - 100г, Коричневый сахар - 125г, Черная патока - 1 ст.л., Сливки - 300мл, Ванильный экстракт - 1 ч.л.",
+      "sourceUrl": "https://www.bbc.co.uk/food/recipes/marys_sticky_toffee_41970",
+      "tag": "Пудинг, Торт, Десерт",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg"
+    },
+    {
+      "id": "52886",
+      "name": "Споттед Дик",
+      "source": "Британская",
+      "ingredients": "Мука - 250г, Соль - щепотка, Сало - 125г, Изюм - 175г, Сахар - 80г, Лимон - цедра 1, Апельсин - цедра 1, Молоко - 150мл, Заварной крем - для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/2686661/spotted-dick",
+      "tag": "Фруктовое, Пудинг, Десерт",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg"
+    },
+    {
+      "id": "52889",
+      "name": "Летний пудинг",
+      "source": "Британская",
+      "ingredients": "Клубника - 300г, Ежевика - 250г, Красная смородина - 100г, Малина - 500г, Сахар - 175г, Хлеб - 7 ломтиков",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/4516/summer-pudding",
+      "tag": "Летнее",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg"
+    },
+    {
+      "id": "52911",
+      "name": "Летний писту",
+      "source": "Французская",
+      "ingredients": "Рапсовое масло - 1 ст.л., Лук-порей - 2 нарезанных, Кабачок - 1 большой, Овощной бульон - 1 литр, Белая фасоль - 400г, Зеленая фасоль - 200г, Помидоры - 3 нарезанных, Чеснок - 3 зубчика, Базилик - небольшой пучок, Пармезан - 40г",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/summer-pistou",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg"
+    },
+    {
+      "id": "52925",
+      "name": "Суп из колотого гороха",
+      "source": "Канадская",
+      "ingredients": "Ветчина - 1кг, Горох - 200г, Лук - 2 нарезанных, Морковь - 2 нарезанных, Лавровый лист - 2, Сельдерей - 1 нарезанный, Замороженный горох - 300г, Хлеб - для подачи",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/1022639/split-pea-and-green-pea-smoked-ham-soup",
+      "tag": "Суп, Теплое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg"
+    },
+    {
+      "id": "52931",
+      "name": "Сахарный пирог",
+      "source": "Канадская",
+      "ingredients": "Коричневый сахар - 2 стакана, Масло - 1/4 стакана, Яйца - 2, Ванильный экстракт - 1 ч.л., Соль - 1 ч.л., Мука - 1/2 стакана, Молоко - 1 1/2 стакана",
+      "sourceUrl": "http://allrecipes.com/recipe/213595/miraculous-canadian-sugar-pie/",
+      "tag": "Пирог, Десерт",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg"
+    },
+    {
+      "id": "52935",
+      "name": "Стейк Диана",
+      "source": "Французская",
+      "ingredients": "Растительное масло - 2 ст.л., Филе говядины - 4, Говяжий бульон - 1 1/2 стакана, Масло - 2 ст.л., Чеснок - 2 зубчика, Шалот - 1 нарезанный, Грибы - 4 унции, Бренди - 1/4 стакана, Сливки - 1/4 стакана, Дижонская горчица - 1 ст.л., Вустерширский соус - 1 ст.л., Соус Табаско - капля, Петрушка - 1 ст.л., Шнитт-лук - 1 ст.л., Соль - по вкусу, Перец - по вкусу",
+      "sourceUrl": "https://www.saveur.com/article/Recipes/Classic-Steak-Diane",
+      "tag": "Романтический ужин, Дорогое, Мясо, Основное блюдо, Сырное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg"
+    },
+    {
+      "id": "52936",
+      "name": "Соленая рыба и аки",
+      "source": "Ямайская",
+      "ingredients": "Соленая треска - 450г, Аки - 400г, Лук - 1 нарезанный, Паприка - 1 ч.л., Карри - 2 ч.л., Артишоки - 2 ч.л., Острый соус - 1 ч.л., Красный перец - 1 нарезанный, Желтый перец - 1 нарезанный, Помидоры - 200г, Соль - по вкусу, Перец - по вкусу, Мука - 250г, Сало - 30г, Соль - щепотка, Оливковое масло - для жарки",
+      "sourceUrl": "https://www.bbc.co.uk/food/recipes/saltfish__ackee_with_64803",
+      "tag": "Специальное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg"
+    },
+    {
+      "id": "52949",
+      "name": "Сладко-кислая свинина",
+      "source": "Китайская",
+      "ingredients": "Свинина - 200г, Яйцо - 1, Вода - капля, Соль - 1/2 ч.л., Сахар - 1 ч.л., Соевый соус - 10г, Крахмал - 10г, Томатная паста - 30г, Уксус - 10г, Кинза - капля",
+      "sourceUrl": "https://www.chinahighlights.com/travelguide/chinese-food/cooking/sweet-sour-pork.htm",
+      "tag": "Сладкое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529442316.jpg"
+    },
+    {
+      "id": "52950",
+      "name": "Сычуаньская говядина",
+      "source": "Китайская",
+      "ingredients": "Говядина - 1/2 фунта, Соль - 1/2 ч.л., Кунжутное масло - 1 ч.л., Перец - щепотка, Яичный белок - 1, Крахмал - 3 ст.л., Масло - 4 ст.л., Имбирь - 1 ч.л., Чеснок - 1 ч.л., Лук - 3/4 стакана, Морковь - 1/2 стакана, Зеленый перец - 3/4 стакана, Сельдерей - 1 стакан, Грибы - 1 стакан, Вино - 1 ст.л., Вода - 1 стакан, Устричный соус - 1 ст.л., Острый соус - 1/2 ч.л., Сахар - 1 ч.л., Соевый соус - 1 ст.л.",
+      "sourceUrl": "https://sueandgambo.com/pages/szechuan-beef",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529443236.jpg"
+    },
+    {
+      "id": "52953",
+      "name": "Креветки Чау Фун",
+      "source": "Китайская",
+      "ingredients": "Рисовая лапша - 1/2 упаковки, Креветки - 8 унций, Яйцо - 1/2, Перец - щепотка, Кунжутное масло - 2 ч.л., Крахмал - 2 ст.л., Масло - 4 ст.л., Чеснок - 1 ч.л., Имбирь - 1 ч.л., Лук - 1/2 стакана, Ростки фасоли - 1 стакан, Зеленый лук - 1/2 стакана, Вино - 1 ст.л., Устричный соус - 1 ст.л., Сахар - 1/2 ст.л., Уксус - 1/2 ст.л., Соевый соус - 1 ст.л.",
+      "sourceUrl": "https://sueandgambo.com/pages/shrimp-chow-fun",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529445434.jpg"
+    },
+    {
+      "id": "52960",
+      "name": "Салат с лососем и авокадо",
+      "source": "Британская",
+      "ingredients": "Лосось - 400г, Авокадо - 3, Огурец - 1, Шпинат - 400г, Мята - 4 ст.л., Лайм - цедра и сок 1, Мед - 2 ч.л., Оливковое масло - 3 ст.л.",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/4521/salmon-avocado-and-cucumber-salad",
+      "tag": "Палео, Кето, Низкоуглеводное, Салат, Алкогольное, Хэллоуин",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1549542994.jpg"
+    },
+    {
+      "id": "52962",
+      "name": "Яйца Бенедикт с лососем",
+      "source": "Американская",
+      "ingredients": "Яйца - 4, Белый винный уксус - 2 ст.л., Английские маффины - 2, Масло - для подачи, Копченый лосось - 8 ломтиков, Лимонный сок - 2 ч.л., Белый винный уксус - 2 ч.л., Яйца - 3 желтка, Сливочное масло - 125г",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/73606/eggs-benedict-with-smoked-salmon-and-chives",
+      "tag": "Булочка, Бранч",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1550440197.jpg"
+    },
+    {
+      "id": "52963",
+      "name": "Шакшука",
+      "source": "Египетская",
+      "ingredients": "Оливковое масло - 1 ст.л., Красный лук - 2 нарезанных, Красный перец чили - 1 нарезанный, Чеснок - 1 зубчик, Кинза - нарезанная, Помидоры черри - 800г, Сахар - 1 ст.л., Яйца - 4, Фета - для посыпки",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/7573/spicy-tomato-baked-eggs",
+      "tag": "Яйца, Бранч, Завтрак",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg"
+    },
+    {
+      "id": "52964",
+      "name": "Кеджери с копченой пикшей",
+      "source": "Индийская",
+      "ingredients": "Масло - 50г, Лук - 1 нарезанный, Кардамон - 3 стручка, Куркума - 1/4 ч.л., Корица - 1 палочка, Лавровый лист - несколько листьев, Рис басмати - 450г, Куриный бульон - 1 литр, Копченая пикша - 750г, Яйца - 3, Петрушка - 3 ст.л., Лимон - 1 нарезанный",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/2256/smoked-haddock-kedgeree",
+      "tag": "Бранч, Рыба, Фьюжн",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1550441275.jpg"
+    },
+    {
+      "id": "52980",
+      "name": "Стамппот",
+      "source": "Голландская",
+      "ingredients": "Картофель - 1.5кг, Лавровый лист - 2 листа, Шалот - 2, Масло - 3 ст.л., Капуста - 750г, Колбаса - 2, Молоко - 500мл, Мускатный орех - тертый, Соль - щепотка, Перец - щепотка",
+      "sourceUrl": "https://www.thespruceeats.com/stamppot-with-curly-kale-and-rookworst-1128837",
+      "tag": "Сытное, Завтрак",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg"
+    },
+    {
+      "id": "52981",
+      "name": "Снерт (Голландский суп из колотого гороха)",
+      "source": "Голландская",
+      "ingredients": "Вода - 2 литра, Горох - 300г, Свинина - 100г, Овощной бульонный кубик - 1, Сельдерей - 2, Морковь - 2, Картофель - 1 большой, Лук - 1 маленький, Лук-порей - 1 маленький, Сельдерей - 1 стакан, Колбаса - 1 фунт",
+      "sourceUrl": "https://www.thespruceeats.com/traditional-dutch-split-pea-soup-1129011",
+      "tag": "Суп, Торт",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg"
+    },
+    {
+      "id": "52982",
+      "name": "Спагетти Карбонара",
+      "source": "Итальянская",
+      "ingredients": "Спагетти - 320г, Яичные желтки - 6, Соль - по вкусу, Бекон - 150г, Пекорино - 50г, Черный перец - по вкусу",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe",
+      "tag": "Паста, Барбекю, Завтрак",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+    },
+    {
+      "id": "52992",
+      "name": "Мясные рулеты с соевым глазуром и васаби-пюре",
+      "source": "Американская",
+      "ingredients": "Картофель - 5, Морковь - 12 унций, Зеленый лук - 1, Чеснок - 2 зубчика, Хлеб - 1 ломтик, Порошок чеснока - 1, Соевый соус - 2, Говяжий фарш - 1, Растительное масло - 1 ч.л., Сахар - 2 ч.л., Масло - 2 ст.л.",
+      "sourceUrl": "",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg"
+    },
+    {
+      "id": "52994",
+      "name": "Свиные отбивные с яблоками и запеченным бататом",
+      "source": "Американская",
+      "ingredients": "Картофель - 2, Яблоки - 1, Чеснок - 2 зубчика, Лимон - 1, Свинина - 2, Цукини - 1, Куриный бульон - 1, Растительное масло - 1 ст.л., Сахар - 1 1/2 ч.л., Масло - 2 ст.л.",
+      "sourceUrl": "",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg"
+    },
+    {
+      "id": "53005",
+      "name": "Пирог с клубникой и ревенем",
+      "source": "Британская",
+      "ingredients": "Мука - 350г, Соль - 1 ч.л., Сахар - 2 ст.л., Масло - 1 стакан, Вода - 1/2 стакана, Ревень - 450г, Клубника - 450г, Крахмал - 3 ст.л., Сахар - 150г, Корица - 1/4 ч.л., Лимонный сок - 1 ч.л., Сливочное масло - 2 ст.л., Молоко - 2 ст.л., Сахар - для посыпки",
+      "sourceUrl": "https://www.joyofbaking.com/StrawberryRhubarbPie.html",
+      "tag": "Пудинг, Пирог, Выпечка, Фруктовое, Глазированное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg"
+    },
+    {
+      "id": "53008",
+      "name": "Фаршированные помидоры с бараниной",
+      "source": "Греческая",
+      "ingredients": "Помидоры - 4 больших, Сахар - щепотка, Оливковое масло - 4 ст.л., Лук - 1 нарезанный, Чеснок - 2 зубчика, Баранина - 200г, Корица - 1 ст.л., Томатная паста - 2 ст.л., Рис - 50г, Куриный бульон - 100мл, Укроп - 4 ст.л., Петрушка - 2 ст.л., Мята - 1 ст.л.",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/stuffed-tomatoes-lamb-mince-dill-rice",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg"
+    },
+    {
+      "id": "53023",
+      "name": "Сельдь в масле (Польская)",
+      "source": "Польская",
+      "ingredients": "Сельдь - 8, Лук - 1 нарезанный, Оливковое масло - 1/2 стакана, Душистый перец - 1 ч.л., Перец - 1 ч.л., Лавровый лист - 1",
+      "sourceUrl": "https://www.thespruceeats.com/polish-herrings-in-oil-recipe-1135618",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg"
+    },
+    {
+      "id": "53028",
+      "name": "Шаурма",
+      "source": "Египетская",
+      "ingredients": "Куриные бедра - 1 кг, Кориандр - 1 ст.л., Тмин - 1 ст.л., Кардамон - 1 ст.л., Кайенский перец - 1 ч.л., Паприка - 2 ч.л., Лимонный сок - 2 ст.л., Оливковое масло - 3 ст.л., Греческий йогурт - 1 стакан, Чеснок - 1 зубчик, Тмин - 1 ч.л., Лимонный сок - капля, Салат - нарезанный, Помидоры - нарезанные, Пита - 6",
+      "sourceUrl": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg"
+    },
+    {
+      "id": "53040",
+      "name": "Эмпанадас с зеленым луком и креветками",
+      "source": "Португальская",
+      "ingredients": "Зеленый лук - 1 пучок, Оливковое масло - капля, Красный перец чили - 1 нарезанный, Чеснок - 1 зубчик, Креветки - 350г, Фета - 75г, Масло - 15г, Мука - 250г, Яйцо - 1 разделенное, Белый винный уксус - 1/2 ч.л.",
+      "sourceUrl": "https://www.olivemagazine.com/recipes/fish-and-seafood/spring-onion-and-prawn-empanadas/",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg"
+    },
+    {
+      "id": "53054",
+      "name": "Сери Мука Куих",
+      "source": "Малайзийская",
+      "ingredients": "Рис - 400г, Кокосовое молоко - 150мл, Вода - 100мл, Соль - 1 ч.л., Кукурузный крахмал - 5 ст.л., Мука - 3 ст.л., Яйца - 3, Кокосовые сливки - 200мл, Сахар - 140г",
+      "sourceUrl": "https://makan.ch/recipe/kuih-seri-muka/",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg"
+    },
+    {
+      "id": "53065",
+      "name": "Суши",
+      "source": "Японская",
+      "ingredients": "Рис для суши - 300мл, Рисовое вино - 100мл, Сахар - 2 ст.л., Майонез - 3 ст.л., Рисовое вино - 1 ст.л., Соевый соус - 1 ст.л., Огурец - 1",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/simple-sushi",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+    },
+    {
+      "id": "53067",
+      "name": "Фаршированные перцы с киноа и черной фасолью",
+      "source": "Мексиканская",
+      "ingredients": "Зеленый перец - 4 целых, Оливковое масло - 1 ст.л., Лук - 1 маленький нарезанный, Чеснок - 2 зубчика, Киноа - 1 стакан, Черная фасоль - 1 банка, Кукуруза - 1 стакан, Помидоры - 1 банка, Тмин - 1 ч.л., Порошок чили - 1/2 ч.л., Копченая паприка - 1/2 ч.л., Соль - по вкусу, Перец - по вкусу, Сыр - 1 1/2 стакана, Кинза - нарезанная",
+      "sourceUrl": "",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg"
+    },
+    {
+      "id": "53082",
+      "name": "Клубника Романофф",
+      "source": "Русская",
+      "ingredients": "Клубника - 2 пинты, Сахар - 4 ст.л., Гран Марнье - 4 ст.л., Сливки - 1 стакан, Сметана - 1/4 стакана",
+      "sourceUrl": "https://natashaskitchen.com/strawberries-romanoff-recipe/",
+      "tag": "Фруктовое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/oe8rg51699014028.jpg"
+    },
+    {
+      "id": "52772",
+      "name": "Терияки Куриная Запеканка",
+      "source": "Японская",
+      "ingridients": "соевый соус - 3/4 чашки, вода - 1/2 чашки, коричневый сахар - 1/4 чашки, имбирь - 1/2 чайной ложки, чеснок - 1/2 чайной ложки, кукурузный крахмал - 4 столовые ложки, куриные грудки - 2, овощи для жарки - 1 (12 унций), коричневый рис - 3 чашки",
+      "sourceUrl": "",
+      "tag": "Мясо, Запеканка",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+    },
+    {
+      "id": "52806",
+      "name": "Тандури Цыпленок",
+      "source": "Индийская",
+      "ingridients": "лимонный сок - 2, паприка - 4 чайные ложки, красный лук - 2 мелко нарезанных, куриные бедра - 16 без кожи, растительное масло - для смазывания, греческий йогурт - 300 мл, имбирь - большой кусок, чеснок - 4 зубчика, гарам масала - 3/4 чайной ложки, тмин - 3/4 чайной ложки, порошок чили - 1/2 чайной ложки, куркума - 1/4 чайной ложки",
+      "sourceUrl": "http://www.bbcgoodfood.com/recipes/1660651/tandoori-chicken",
+      "tag": "Острое, Мясо",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+    },
+    {
+      "id": "52814",
+      "name": "Тайский Зеленый Карри",
+      "source": "Тайская",
+      "ingridients": "картофель - 225 г, зеленая фасоль - 100 г, подсолнечное масло - 1 столовая ложка, чеснок - 1 зубчик, тайская паста зеленого карри - 4 чайные ложки, кокосовое молоко - 400 мл, тайский рыбный соус - 2 чайные ложки, сахар - 1 чайная ложка, курица - 450 г без костей, лайм - 2 свежих листа, базилик - горсть, рис - вареный",
+      "sourceUrl": "http://www.bbcgoodfood.com/recipes/3235/thai-green-chicken-curry",
+      "tag": "Карри, Мягкое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg"
+    },
+    {
+      "id": "52822",
+      "name": "Тоад в Норе",
+      "source": "Британская",
+      "ingridients": "сосиски - 8, растительное масло - 3 столовые ложки, мука - 100 г, яйца - 2 средних, хрен - 1 столовая ложка тертого, молоко - 225 мл, помидоры черри - 200 г",
+      "sourceUrl": "http://www.deliciousmagazine.co.uk/recipes/georgina-fuggles-horseradish-and-vine-tomato-toad-in-the-hole/",
+      "tag": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg"
+    },
+    {
+      "id": "52845",
+      "name": "Мясной Рулет из Индейки",
+      "source": "Британская",
+      "ingridients": "оливковое масло - 1 столовая ложка, лук - 1 крупный, чеснок - 1 зубчик, соус Вустершир - 2 столовые ложки, томатная паста - 3 чайные ложки, фарш из индейки - 500 г, яйца - 1 крупное, панировочные сухари - 85 г, соус барбекю - 2 столовые ложки, белая фасоль - 800 г, петрушка - 2 столовые ложки",
+      "sourceUrl": "https://www.bbcgoodfood.com/recipes/turkey-meatloaf",
+      "tag": "Алкоголь",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg"
+    },
+    {
+      "id": "52767",
+      "name": "Бейквеллский тарт",
+      "source": "Британская",
+      "ingridients": "мука - 175 г, охлажденное масло - 75 г, холодная вода - 2-3 ст. ложки, малиновое варенье - 1 ст. ложка, масло - 125 г, сахар - 125 г, молотый миндаль - 125 г, яйца - 1, экстракт миндаля - 1/2 чайной ложки, миндальные хлопья - 50 г",
+      "sourceUrl": "",
+      "tag": "Тарт, Выпечка, Алкоголь",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg"
+    },
+    {
+      "id": "52792",
+      "name": "Пудинг из хлеба и масла",
+      "source": "Британская",
+      "ingridients": "масло - 25 г, хлеб - 8 тонких ломтиков, изюм - 50 г, корица - 2 чайные ложки, молоко - 350 мл, сливки - 50 мл, яйца - 2, сахар - 25 г, мускатный орех - тертый, по вкусу",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1018529-coq-au-vin",
+      "tag": "Пудинг, Бранч",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg"
+    },
+    {
+      "id": "52803",
+      "name": "Говядина Веллингтон",
+      "source": "Британская",
+      "ingridients": "грибы - 400 г, английская горчица - 1-2 ст. ложки, оливковое масло - немного, говяжья вырезка - 750 г, пармская ветчина - 6-8 ломтиков, слоеное тесто - 500 г, мука - для посыпки, яичные желтки - 2",
+      "sourceUrl": "http://www.goodtoknow.co.uk/recipes/164868/Gordon-Ramsay-s-beef-Wellington",
+      "tag": "Мясо, Рагу",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg"
+    },
+    {
+      "id": "52807",
+      "name": "Байнган Бхарта",
+      "source": "Индийская",
+      "ingridients": "баклажан - 1 крупный, лук - 1/2 чашки, помидоры - 1 чашка, чеснок - 6 зубчиков, зеленый перец чили - 1, красный перец чили - 1/4 чайной ложки, масло - 1,5 ст. ложки, листья кориандра - 1 ст. ложка, соль - по вкусу",
+      "sourceUrl": "http://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
+      "tag": "Острое, Булочка, Калорийное",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
+    },
+    {
+      "id": "52812",
+      "name": "Тушеная говяжья грудинка",
+      "source": "Американская",
+      "ingridients": "говяжья грудинка - 4-5 фунтов, соль - щепотка, лук - 3, чеснок - 5 зубчиков, тимьян - 1 веточка, розмарин - 1 веточка, лавровый лист - 4, говяжий бульон - 2 чашки, морковь - 3 крупные, горчица - 1 ст. ложка, картофель - 4, пюре",
+      "sourceUrl": "http://www.simplyrecipes.com/recipes/beef_brisket_pot_roast/",
+      "tag": "Мясо",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg"
+    },
+    {
+      "id": "52783",
+      "name": "Ригатони с соусом из фенхеля и колбасы",
+      "source": "Итальянская",
+      "ingridients": "оливковое масло - 2,5 ст. ложки, итальянская колбаса с фенхелем - 6 штук, лук - 1 крупный, фенхель - 1 луковица, копченая паприка - 1/2 чайной ложки, чеснок - 1 зубчик, семена фенхеля - 2 чайные ложки, красное вино - 100 мл, помидоры - 400 г, сахар - 1/2 чайной ложки, оливки - 50 г, ригатони - 500 г, пекорино - 30 г, анчоусы - 1 филе, чеснок - 1 зубчик, оливковое масло - 60 мл, листья базилика - 50 г",
+      "sourceUrl": "http://www.ottolenghi.co.uk/recipes/meat/rigatoni-with-fennel-sausage-sauce-and-pecorino-and-anchovy-pesto-shop",
+      "tag": "Паста",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg"
+    },
+    {
+      "id": "52786",
+      "name": "Рокки Роуд Фадж",
+      "source": "Американская",
+      "ingridients": "мини-зефир - 2 чашки, шоколадные чипсы - 3 чашки, арахисовое масло - 1/2 чашки, ванильный экстракт - 1 чайная ложка, арахис - 1 1/4 чашки",
+      "sourceUrl": "http://tiphero.com/rocky-road-fudge/",
+      "tag": "Шоколад, Закуска, Сладкое, Выпечка",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg"
+    },
+    {
+      "id": "52809",
+      "name": "Рыба Речеадо",
+      "source": "Индийская",
+      "ingridients": "скумбрия - 4 штуки, красный перец чили - 18 сушеных, имбирь - 1 дюйм, чеснок - 8 зубчиков, перец - 1,5 чайной ложки, тмин - 1 чайная ложка, куркума - 1/2 чайной ложки, корица - 1 палочка, гвоздика - 4 штуки, кардамон - 2 штуки, сахар - 1 столовая ложка, тамаринд - 2 шарика, уксус - 2,5 столовые ложки, масло - для жарки",
+      "sourceUrl": "http://www.flavorsofmumbai.com/fish-recheado-masala-recipe/",
+      "tag": "Рыба, Острое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg"
+    },
+    {
+      "id": "52811",
+      "name": "Риболлита",
+      "source": "Итальянская",
+      "ingridients": "оливковое масло - 5 столовых ложек, лук - 1 штука, морковь - 1 штука, сельдерей - 1 стебель, чеснок - 1 столовая ложка, белая фасоль - 2 чашки, консервированные помидоры - 1 банка, вода - 4 чашки, розмарин - 1 веточка, тимьян - 1 веточка, капуста - 1 фунт, цельнозерновой хлеб - 4 ломтика, красный лук - 1 штука, пармезан - 1/2 чашки",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1016052-ribollita",
+      "tag": "Вегетарианское",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg"
+    },
+    {
+      "id": "52816",
+      "name": "Запеченный баклажан с тахини, кедровыми орехами и чечевицей",
+      "source": "Американская",
+      "ingridients": "оливковое масло - 2 столовые ложки, морковь - 2 штуки, сельдерей - 2 стебля, лук - 1 штука, чеснок - 6 зубчиков, коричневая чечевица - 12 унций, лавровый лист - 2 штуки, вода - 4 чашки, соль - щепотка, яблочный уксус - 2 чайные ложки, перец - щепотка, баклажаны - 2 штуки, розмарин - 4 веточки, кедровые орехи - 1/4 чашки, петрушка - 2 столовые ложки",
+      "sourceUrl": "http://www.seriouseats.com/recipes/2016/03/roasted-eggplant-tahini-pine-nut-lentil-vegan-experience-recipe.html",
+      "tag": "Вегетарианское, Чечевица, Ореховое",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg"
+    }
 ]
